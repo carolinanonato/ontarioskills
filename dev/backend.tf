@@ -1,3 +1,5 @@
+#bear with me
+
 terraform {
   backend "s3" {
     bucket = "carolskills23"
